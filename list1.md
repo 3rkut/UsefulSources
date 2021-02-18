@@ -10,7 +10,8 @@
 * https://medium.com/@jonathan.benalii/dark-web-monitoring-part-2-da800c325355
 * https://sec.okta.com/articles/2020/08/crimeops-operational-art-cyber-crime
 * https://warriorpublications.wordpress.com/2011/11/20/security-counter-surveillance-manual/
-
+* Understanding and hiding your operations - https://www.slideshare.net/DanielLpezJimnez1/understanding-and-hiding-your-operations
+* vOPCDE #8 - CrimeOps: The operational art of cybercrime - https://www.youtube.com/watch?v=E9F7WCO-pZM
 
 ## Hackers and Threat Actors Interview && Indictments/Complaint(My favourites)
 
@@ -21,6 +22,8 @@
 * Flatl1ne Interview ( Founder of FreedomFox) - https://therecord.media/an-interview-with-russian-hacker-pavel-sitnikov-there-is-no-hacking-scene-now-only-commerce/
 * Its a good read - https://torontolife.com/city/kid-made-millions-hacking-emails-fbi-took/ (Karim Baratov)
 * Lazarus Hacker "Park" Complaint  - https://www.justice.gov/opa/press-release/file/1092091/download
+* Same North Korean Hackers - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+* SandWorm campaign Analysis - https://www.cert.ssi.gouv.fr/uploads/CERTFR-2021-CTI-005.pdf
 * CyberCriminal Maksim Boiko Complaint - https://www.cyberscoop.com/maksim-boiko-hacking-rapper-russian/
 * Interview with "UNKN" (Operator of REvil) - https://www.advanced-intel.com/post/an-interview-with-unkn-sheds-light-on-revil-s-operations-future-victims
 * Another "UNKN" interview with Russian OSINT YouTube Channel - https://intel471.com/blog/revil-ransomware-interview-russian-osint-100-million/
@@ -40,9 +43,10 @@
 * Legendary Hacker BadB Interview and Video - https://ok.ru/video/301184910644
 * Another Legendary Turkish Hacker Ercan Findikoglu's Indictments - https://www.courtlistener.com/recap/gov.uscourts.nyed.345169/gov.uscourts.nyed.345169.32.0.pdf
 and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
+* Interview with Procarder2, a Darknet Vendor Specializing in Stolen Credit Card Data - https://darknetdaily.com/?p=1282
 
 
-## Researches,SLides,Threat Intelligence,Programming && other stuffs
+## Researches,SLides,Threat Intelligence,Talks && other stuffs
 
 * CryptoCoreA - Threat Actor Targeting Cryptocurrency Exchanges - https://www.clearskysec.com/wp-content/uploads/2020/06/CryptoCore_Group.pdf
 * Leery Turtle Threat Report -(APT) https://cyberstruggle.org/delta/LeeryTurtleThreatReport_05_20.pdf
@@ -85,7 +89,16 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * Stopping Serial Killer: Catching the Next Strike - https://research.checkpoint.com/2021/stopping-serial-killer-catching-the-next-strike/
 * ApoMacroSploit : Apocalyptical FUD race - https://research.checkpoint.com/2021/apomacrosploit-apocalyptical-fud-race/ 
 * BitRAT – The Latest in C++ Malware Written by Incompetent Developers - https://krabsonsecurity.com/2020/08/22/bitrat-the-latest-in-copy-pasted-malware-by-incompetent-developers/
+* The Nemty affiliate model - https://medium.com/csis-techblog/the-nemty-affiliate-model-13f5cf7ab66b
 * Another very amazing blog - https://0xthreatintel.medium.com/
+* Awesome APT41 Group by FireEye - https://content.fireeye.com/apt-41/rpt-apt41/
+* THE MALWARE DRIDEX: ORIGINS AND USES - https://www.cert.ssi.gouv.fr/uploads/CERTFR-2020-CTI-008.pdf
+* TRICKBOT NOW OFFERS ‘TRICKBOOT’: PERSIST, BRICK, PROFIT - https://eclypsium.com/wp-content/uploads/2020/12/TrickBot-Now-Offers-TrickBoot-Persist-Brick-Profit.pdf
+* CONFidence Online: Hidden Link Between TrickBot "Anchor" & North Korea "Lazarus” (Vitali Kremez) - https://youtu.be/GulIqRS1Vic
+* CONFidence Online: Hidden Link Between TrickBot "Anchor" & North Korea "Lazarus” (Vitali Kremez) - https://www.youtube.com/watch?v=GuiDTWSHNuU
+* Fraud Evolution: Synthetic Identities, COVID-Times Carding & Physical Identity Obfuscation - https://www.advanced-intel.com/post/fraud-evolution-synthetic-identities-covid-times-carding-physical-identity-obfuscation
+* ANALYZING APT19 MALWARE USING A STEP-BY-STEP METHOD - https://cybergeeks.tech/analyzing-apt19-malware-using-a-step-by-step-method/
+
 
 ## RedTeam,Vulnerability Research && Pentest Blogs and Tools ( Included Malware Source Code Leaks && exploit kits)
 
@@ -112,6 +125,7 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * https://github.com/zer0yu/Awesome-CobaltStrike
 * https://github.com/Aekras1a/darkRat_HVNC
 * https://github.com/PELock/StringEncrypt-Python
+* https://opendata.rapid7.com/sonar.tcp/ (Port scanning or discovering network/RDP etc..)
 * https://lospi.net/security/assembly/c/cpp/developing/software/2017/03/04/gargoyle-memory-analysis-evasion.html
 * https://modexp.wordpress.com/2020/07/07/wpi-wm-paste/
 * https://modexp.wordpress.com/2020/07/31/wpi-cmdline-envar/
@@ -124,3 +138,9 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * https://github.com/Tlgyt/The-Collection
 * https://github.com/OWASP/owasp-mstg
 * http://www.rohitab.com/discuss/topic/35415-c-getrawinputdata-keylogger/
+* https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques
+* https://theevilbit.github.io/posts/getting_started_in_macos_security/
+* https://securitycafe.ro/2015/10/30/introduction-to-windows-shellcode-development-part1/
+* https://owasp.org/www-pdf-archive/Introduction_to_shellcode_development.pdf
+* https://mobexler.com/checklist.htm
+* https://github.com/k1000o23/cheat_sheets

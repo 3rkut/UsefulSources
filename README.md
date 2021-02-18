@@ -6,7 +6,7 @@
 
 * Ransomware Group's researches,
 * APT's,
-* Interestig Doxed CyberCriminals,
+* Interesting Doxed CyberCriminals,
 * Useful Programming scripts(evil malware tricks,injection techniques etc..),
 * Awesome Slides(OPSec and privacy or some amazing slides from DEFCON/Blackhat/RSA Conferences.).
 

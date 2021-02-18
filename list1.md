@@ -98,7 +98,7 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * CONFidence Online: Hidden Link Between TrickBot "Anchor" & North Korea "Lazarus” (Vitali Kremez) - https://www.youtube.com/watch?v=GuiDTWSHNuU
 * Fraud Evolution: Synthetic Identities, COVID-Times Carding & Physical Identity Obfuscation - https://www.advanced-intel.com/post/fraud-evolution-synthetic-identities-covid-times-carding-physical-identity-obfuscation
 * ANALYZING APT19 MALWARE USING A STEP-BY-STEP METHOD - https://cybergeeks.tech/analyzing-apt19-malware-using-a-step-by-step-method/
-
+* The “Silent Night” Zloader/Zbot - https://resources.malwarebytes.com/files/2020/05/The-Silent-Night-Zloader-Zbot_Final.pdf
 
 ## RedTeam,Vulnerability Research && Pentest Blogs and Tools ( Included Malware Source Code Leaks && exploit kits)
 
@@ -144,3 +144,4 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * https://owasp.org/www-pdf-archive/Introduction_to_shellcode_development.pdf
 * https://mobexler.com/checklist.htm
 * https://github.com/k1000o23/cheat_sheets
+* From a C project, through assembly, to shellcode - https://vxug.fakedoma.in/papers/VXUG/Exclusive/FromaCprojectthroughassemblytoshellcodeHasherezade.pdf

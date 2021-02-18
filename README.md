@@ -2,7 +2,7 @@
 
 ### For the last 1-2 years, I have collected a lot of research articles and useful sites / blogs that I enjoy reading.
 
-# What does it include?
+# What kind of things?
 
 * Ransomware Group's researches,
 * APT's,Talks,

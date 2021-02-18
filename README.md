@@ -5,8 +5,8 @@
 # What does it include?
 
 * Ransomware Group's researches,
-* APT's,
-* Interesting Doxed CyberCriminals,
+* APT's,Talks,
+* Interesting Doxed CyberCriminals && Interview with Hackers,
 * Useful Programming scripts(evil malware tricks,injection techniques etc..),
 * Awesome Slides(OPSec and privacy or some amazing slides from DEFCON/Blackhat/RSA Conferences.).
 

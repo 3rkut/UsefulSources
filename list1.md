@@ -12,6 +12,8 @@
 * https://warriorpublications.wordpress.com/2011/11/20/security-counter-surveillance-manual/
 * Understanding and hiding your operations - https://www.slideshare.net/DanielLpezJimnez1/understanding-and-hiding-your-operations
 * vOPCDE #8 - CrimeOps: The operational art of cybercrime - https://www.youtube.com/watch?v=E9F7WCO-pZM
+* When Cybercriminals with Good OpSec Attack - https://www.youtube.com/watch?v=zXmZnU2GdVk
+
 
 ## Hackers and Threat Actors Interview && Indictments/Complaint(My favourites)
 
@@ -41,6 +43,7 @@
 * about k0pa and his news - https://ria.ru/burkov_israel_261215/
 * Arkady Bukh (Defence Lawyer for The Cybercrime Underground) - https://www.cyberscoop.com/story/arkady-bukh-man-in-the-middle/
 * Legendary Hacker BadB Interview and Video - https://ok.ru/video/301184910644
+* Another BadB YouTube Interview with ex carder Sergei - https://www.youtube.com/watch?v=XMOJP-Prrug
 * Another Legendary Turkish Hacker Ercan Findikoglu's Indictments - https://www.courtlistener.com/recap/gov.uscourts.nyed.345169/gov.uscourts.nyed.345169.32.0.pdf
 and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * Interview with Procarder2, a Darknet Vendor Specializing in Stolen Credit Card Data - https://darknetdaily.com/?p=1282
@@ -89,16 +92,32 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * Stopping Serial Killer: Catching the Next Strike - https://research.checkpoint.com/2021/stopping-serial-killer-catching-the-next-strike/
 * ApoMacroSploit : Apocalyptical FUD race - https://research.checkpoint.com/2021/apomacrosploit-apocalyptical-fud-race/ 
 * BitRAT – The Latest in C++ Malware Written by Incompetent Developers - https://krabsonsecurity.com/2020/08/22/bitrat-the-latest-in-copy-pasted-malware-by-incompetent-developers/
+* Remoticon 2020 // Learn How to Hack a Car Workshop - https://www.youtube.com/watch?v=NzgvRictI9o
+* Introduction to Reverse Engineering for Penetration Testers – SANS - https://www.youtube.com/watch?v=fnYp2DN_XZc
+* Tutorial: Introduction to Reverse Engineering - Mike Anderson - https://www.youtube.com/watch?v=7v7UaMsgg_c
+* CamSec - Basic Assembly for Reverse Engineering - https://www.youtube.com/watch?v=NhqAeQB_CZU
+* Hacking People’s Mind: When Threat Actors Master Social Engineering - https://www.youtube.com/watch?v=zJOSPjZOAsQ
+* Two Weeks with a Russian Ransomware Cell - https://www.youtube.com/watch?v=Oqg20dF8tTA
+* Feds Fighting Ransomware: How the FBI Investigates and How You Can Help - https://www.youtube.com/watch?v=LUxOcpIRxmg
+* Disobey 2018 - Reverse Engineering on Android 101 (Game protocols) - Giovanni Rocca - https://www.youtube.com/watch?v=EYfrUw7Nt8o
+* Mobile Hacking Workshop - Community Day - https://www.youtube.com/watch?v=PMKnPaGWxtg
+* How to Apply Reverse Engineering Techniques to Cheat at Video Games - https://www.youtube.com/watch?v=hOiJiHmvJWg
+* Beginners Guide to Reverse Engineering Android Apps - https://www.youtube.com/watch?v=7SRfk321I5o
+* REVERSING 2020 - Evolution of Cybercrime Intent & Hunting with YARA for Malware Developers - https://www.youtube.com/watch?v=Hjp9JfyLLiY
+* Hackerhotel 2020: John Fokker and Rik van Duijn -- REvil Ransomware - https://www.youtube.com/watch?v=QC5Rgu7U1bA
+* BSidesCHS 2018: Opening Remarks & Keynote by Vitali Kremez - https://www.youtube.com/watch?v=ptL0aTYzRfM
+* #Eko2020 Mobile Hacking | Lukáš Štefanko: Android COVID-19 threats - https://www.youtube.com/watch?v=Dnq3FZwD9IQ
+* Cyber criminals are criminals. And it's time to take action | Ilya Sachkov | - https://www.youtube.com/watch?v=9WusyYU7QmE
 * The Nemty affiliate model - https://medium.com/csis-techblog/the-nemty-affiliate-model-13f5cf7ab66b
 * Another very amazing blog - https://0xthreatintel.medium.com/
 * Awesome APT41 Group by FireEye - https://content.fireeye.com/apt-41/rpt-apt41/
 * THE MALWARE DRIDEX: ORIGINS AND USES - https://www.cert.ssi.gouv.fr/uploads/CERTFR-2020-CTI-008.pdf
 * TRICKBOT NOW OFFERS ‘TRICKBOOT’: PERSIST, BRICK, PROFIT - https://eclypsium.com/wp-content/uploads/2020/12/TrickBot-Now-Offers-TrickBoot-Persist-Brick-Profit.pdf
-* CONFidence Online: Hidden Link Between TrickBot "Anchor" & North Korea "Lazarus” (Vitali Kremez) - https://youtu.be/GulIqRS1Vic
 * CONFidence Online: Hidden Link Between TrickBot "Anchor" & North Korea "Lazarus” (Vitali Kremez) - https://www.youtube.com/watch?v=GuiDTWSHNuU
 * Fraud Evolution: Synthetic Identities, COVID-Times Carding & Physical Identity Obfuscation - https://www.advanced-intel.com/post/fraud-evolution-synthetic-identities-covid-times-carding-physical-identity-obfuscation
 * ANALYZING APT19 MALWARE USING A STEP-BY-STEP METHOD - https://cybergeeks.tech/analyzing-apt19-malware-using-a-step-by-step-method/
 * The “Silent Night” Zloader/Zbot - https://resources.malwarebytes.com/files/2020/05/The-Silent-Night-Zloader-Zbot_Final.pdf
+
 
 ## RedTeam,Vulnerability Research && Pentest Blogs and Tools ( Included Malware Source Code Leaks && exploit kits)
 

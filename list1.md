@@ -24,6 +24,7 @@
 * Flatl1ne Interview ( Founder of FreedomFox) - https://therecord.media/an-interview-with-russian-hacker-pavel-sitnikov-there-is-no-hacking-scene-now-only-commerce/
 * Its a good read - https://torontolife.com/city/kid-made-millions-hacking-emails-fbi-took/ (Karim Baratov)
 * Lazarus Hacker "Park" Complaint  - https://www.justice.gov/opa/press-release/file/1092091/download
+* north-korean-malicious-cyber-activity - https://us-cert.cisa.gov/ncas/current-activity/2021/02/17/north-korean-malicious-cyber-activity-applejeus
 * Same North Korean Hackers - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 * SandWorm campaign Analysis - https://www.cert.ssi.gouv.fr/uploads/CERTFR-2021-CTI-005.pdf
 * CyberCriminal Maksim Boiko Complaint - https://www.cyberscoop.com/maksim-boiko-hacking-rapper-russian/
@@ -117,6 +118,9 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * Fraud Evolution: Synthetic Identities, COVID-Times Carding & Physical Identity Obfuscation - https://www.advanced-intel.com/post/fraud-evolution-synthetic-identities-covid-times-carding-physical-identity-obfuscation
 * ANALYZING APT19 MALWARE USING A STEP-BY-STEP METHOD - https://cybergeeks.tech/analyzing-apt19-malware-using-a-step-by-step-method/
 * The “Silent Night” Zloader/Zbot - https://resources.malwarebytes.com/files/2020/05/The-Silent-Night-Zloader-Zbot_Final.pdf
+* https://aaqeel01.wordpress.com/2021/02/07/dridex-malware-analysis/
+* https://research.nccgroup.com/2021/01/23/rift-analysing-a-lazarus-shellcode-execution-method/
+* https://labs.sentinelone.com/zeoticus-2-0-ransomware-with-no-c2-required/
 
 
 ## RedTeam,Vulnerability Research && Pentest Blogs and Tools ( Included Malware Source Code Leaks && exploit kits)
@@ -164,3 +168,5 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * https://mobexler.com/checklist.htm
 * https://github.com/k1000o23/cheat_sheets
 * From a C project, through assembly, to shellcode - https://vxug.fakedoma.in/papers/VXUG/Exclusive/FromaCprojectthroughassemblytoshellcodeHasherezade.pdf
+* https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/chapter-3-basic-implant-and-tasking
+* https://github.com/odzhan/injection

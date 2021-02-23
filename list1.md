@@ -118,10 +118,12 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * Fraud Evolution: Synthetic Identities, COVID-Times Carding & Physical Identity Obfuscation - https://www.advanced-intel.com/post/fraud-evolution-synthetic-identities-covid-times-carding-physical-identity-obfuscation
 * ANALYZING APT19 MALWARE USING A STEP-BY-STEP METHOD - https://cybergeeks.tech/analyzing-apt19-malware-using-a-step-by-step-method/
 * The “Silent Night” Zloader/Zbot - https://resources.malwarebytes.com/files/2020/05/The-Silent-Night-Zloader-Zbot_Final.pdf
-* https://aaqeel01.wordpress.com/2021/02/07/dridex-malware-analysis/
-* https://research.nccgroup.com/2021/01/23/rift-analysing-a-lazarus-shellcode-execution-method/
-* https://labs.sentinelone.com/zeoticus-2-0-ransomware-with-no-c2-required/
-
+* Dridex Analysis - https://aaqeel01.wordpress.com/2021/02/07/dridex-malware-analysis/
+* Analysing Lazarus Shellcode Exectuion Method - https://research.nccgroup.com/2021/01/23/rift-analysing-a-lazarus-shellcode-execution-method/
+* Zeoticus Ransom with no C2 reqired ? really? - https://labs.sentinelone.com/zeoticus-2-0-ransomware-with-no-c2-required/
+* ApoMacroSploit : Apocalyptical FUD race - https://research.checkpoint.com/2021/apomacrosploit-apocalyptical-fud-race/
+* Farming for Red Teams: Harvesting NetNTLM - https://www.mdsec.co.uk/2021/02/farming-for-red-teams-harvesting-netntlm/
+* The Story of Jian – How APT31 Stole and Used an Unknown Equation Group 0-Day - https://research.checkpoint.com/2021/the-story-of-jian/
 
 ## RedTeam,Vulnerability Research && Pentest Blogs and Tools ( Included Malware Source Code Leaks && exploit kits)
 

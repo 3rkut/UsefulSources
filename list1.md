@@ -13,6 +13,8 @@
 * Understanding and hiding your operations - https://www.slideshare.net/DanielLpezJimnez1/understanding-and-hiding-your-operations
 * vOPCDE #8 - CrimeOps: The operational art of cybercrime - https://www.youtube.com/watch?v=E9F7WCO-pZM
 * When Cybercriminals with Good OpSec Attack - https://www.youtube.com/watch?v=zXmZnU2GdVk
+* Completely Disable & Remove Windows 10 Telemetry
+https://encrypt-the-planet.com/completely-disable-windows-10-telemetry/
 
 
 ## Hackers and Threat Actors Interview && Indictments/Complaint(My favourites)
@@ -172,3 +174,4 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * From a C project, through assembly, to shellcode - https://vxug.fakedoma.in/papers/VXUG/Exclusive/FromaCprojectthroughassemblytoshellcodeHasherezade.pdf
 * https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/chapter-3-basic-implant-and-tasking
 * https://github.com/odzhan/injection
+* The Ultimate List of SANS Cheat Sheets - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/

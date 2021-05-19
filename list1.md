@@ -126,6 +126,8 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * ApoMacroSploit : Apocalyptical FUD race - https://research.checkpoint.com/2021/apomacrosploit-apocalyptical-fud-race/
 * Farming for Red Teams: Harvesting NetNTLM - https://www.mdsec.co.uk/2021/02/farming-for-red-teams-harvesting-netntlm/
 * The Story of Jian – How APT31 Stole and Used an Unknown Equation Group 0-Day - https://research.checkpoint.com/2021/the-story-of-jian/
+* Money Doesn't Stink - Cybercriminal Business Insight of A New Android Botnet - https://www.youtube.com/watch?v=p7XtZcFrS6g
+* «How to pwn Russian Android botnet» by Dmitriy - https://www.youtube.com/watch?v=wWZ6eFuperU
 
 ## RedTeam,Vulnerability Research && Pentest Blogs and Tools ( Included Malware Source Code Leaks && exploit kits)
 
@@ -175,3 +177,5 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/chapter-3-basic-implant-and-tasking
 * https://github.com/odzhan/injection
 * The Ultimate List of SANS Cheat Sheets - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
+* https://medium.com/malware-buddy/reverse-engineering-tips-name-mangling-59c4ee2d77c4
+* https://www.aldeid.com/wiki/Cobalt-Strike/Beacon-Commands

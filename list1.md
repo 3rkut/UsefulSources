@@ -51,6 +51,8 @@ https://encrypt-the-planet.com/completely-disable-windows-10-telemetry/
 and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * Interview with Procarder2, a Darknet Vendor Specializing in Stolen Credit Card Data - https://darknetdaily.com/?p=1282
 * The rise and fall of a suburban hacker.(darkode) - https://www.milwaukeemag.com/dark-side-darkode-fbi/
+* YEVGENIY ALEXANDROVICH NIKULIN Court - https://s3.documentcloud.org/documents/6793888/Nikulin-pre-trial-filing-alleging-Ieremenko.pdf
+* JabberZeus (a.k.a Business Club) Court - https://www.justice.gov/iso/opa/resources/5922014411104621620917.pdf
 
 
 ## Researches,SLides,Threat Intelligence,Talks && other stuffs

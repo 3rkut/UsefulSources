@@ -50,6 +50,7 @@ https://encrypt-the-planet.com/completely-disable-windows-10-telemetry/
 * Another Legendary Turkish Hacker Ercan Findikoglu's Indictments - https://www.courtlistener.com/recap/gov.uscourts.nyed.345169/gov.uscourts.nyed.345169.32.0.pdf
 and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * Interview with Procarder2, a Darknet Vendor Specializing in Stolen Credit Card Data - https://darknetdaily.com/?p=1282
+* The rise and fall of a suburban hacker.(darkode) - https://www.milwaukeemag.com/dark-side-darkode-fbi/
 
 
 ## Researches,SLides,Threat Intelligence,Talks && other stuffs

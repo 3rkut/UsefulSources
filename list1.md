@@ -53,8 +53,8 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * The rise and fall of a suburban hacker.(darkode) - https://www.milwaukeemag.com/dark-side-darkode-fbi/
 * YEVGENIY ALEXANDROVICH NIKULIN Court - https://s3.documentcloud.org/documents/6793888/Nikulin-pre-trial-filing-alleging-Ieremenko.pdf
 * JabberZeus (a.k.a Business Club) Court - https://www.justice.gov/iso/opa/resources/5922014411104621620917.pdf
-
-
+* FIN7 aka Carbanak Group fourth defendant expected to plead guilty - https://file411.substack.com/p/fin7-aka-carbanak-group-and-navigator?s=r
+* Original APT LAPSUS$ - https://krebsonsecurity.com/2022/04/the-original-apt-advanced-persistent-teenagers/ 
 ## Researches,SLides,Threat Intelligence,Talks && other stuffs
 
 * CryptoCoreA - Threat Actor Targeting Cryptocurrency Exchanges - https://www.clearskysec.com/wp-content/uploads/2020/06/CryptoCore_Group.pdf
@@ -131,6 +131,7 @@ and https://www.courtlistener.com/docket/4322734/united-states-v-findikoglu/
 * The Story of Jian – How APT31 Stole and Used an Unknown Equation Group 0-Day - https://research.checkpoint.com/2021/the-story-of-jian/
 * Money Doesn't Stink - Cybercriminal Business Insight of A New Android Botnet - https://www.youtube.com/watch?v=p7XtZcFrS6g
 * «How to pwn Russian Android botnet» by Dmitriy - https://www.youtube.com/watch?v=wWZ6eFuperU
+* North Korea Crpyto Access - https://www.washingtonpost.com/business/2022/04/23/north-korea-hack-crypto-access/
 
 ## RedTeam,Vulnerability Research && Pentest Blogs and Tools ( Included Malware Source Code Leaks && exploit kits)
 
